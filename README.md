@@ -13,7 +13,9 @@ This project demonstrates a fully deployed application with **separate frontend 
 
 - **Frontend:** [https://simple-blogging-app-frontend.onrender.com](https://simple-blogging-app-frontend.onrender.com)  
   
-> The frontend communicates automatically with the backend, which is hosted on Render. Users can access the full app directly without any setup. No manual access to the backend is needed.
+> The frontend communicates automatically with the backend, which is hosted on Render.
+> Users can access the full app directly without any setup.
+> No manual access to the backend is needed.
 
 ---
 
