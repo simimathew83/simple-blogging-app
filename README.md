@@ -12,9 +12,8 @@ This project demonstrates a fully deployed application with **separate frontend 
 ## Live Demo
 
 - **Frontend:** [https://simple-blogging-app-frontend.onrender.com](https://simple-blogging-app-frontend.onrender.com)  
-- **Backend API:** [https://simple-blogging-app-backend.onrender.com](https://simple-blogging-app-backend.onrender.com)  
-
-> Both frontend and backend are hosted on **Render**, communicating via environment-variable-configured URLs. Users can access the full app directly without any setup.
+  
+> The frontend communicates automatically with the backend, which is hosted on Render. Users can access the full app directly without any setup. No manual access to the backend is needed.
 
 ---
 
